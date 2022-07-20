@@ -1,0 +1,40 @@
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+body {
+    background-color: #f5ebe0;
+    font-family: Helvetica;
+}
+
+p {
+    text-align: justify;
+    padding: -10px;
+    float:
+}
+
+ol li {
+    text-align: justify;
+    padding: 10px;
+}
+
+li {
+    text-align: justify;
+    padding: 5px;
+    list-style-position: inside;
+}
+
+h4 {
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+hr {
+    width: 80%;
+}
+
+img {
+    float:
+}
